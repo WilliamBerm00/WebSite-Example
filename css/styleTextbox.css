@@ -1,0 +1,13 @@
+#content {
+    padding-top: 20px;
+    padding: 20px;
+    margin: 100px auto;
+    width: 600px;
+    height: 300px;
+    position:fixed; 
+    top: 10%;
+    left: 5%;
+    border: rgb(255, 255, 255) 1px solid;
+    font-family:unset;
+    color: white;
+}
